@@ -1,0 +1,17 @@
+Get all customers who are married.
+Find the total number of customers in each city.
+1. Show the total spends for each customer 
+2. Show all customers who spent in the 'Electronics' category
+3. Find the average spend for each payment type
+4. List the total amount spent by each customer in the month of May.
+5. Get the number of customers in each occupation.
+6. Retrieve the details of customers who are in the age group '25-34'.
+7. List all customers who spent using Debit Card.
+8. Get the total spend for each age group in the Entertainment category.
+9. Find the highest spend by a customer in the 'Food' category in the month of October.
+10. Show the average income of customers in each occupation.
+11.Show all customers who spent in the 'Electronics' category, including their name and age group.
+12. Find the total spends per customer 
+13. Find the total spend for each city
+14. Show the average income of customers who spent on 'Entertainment' in the month of July.
+15. Show the total spend per customer by age group and category.
