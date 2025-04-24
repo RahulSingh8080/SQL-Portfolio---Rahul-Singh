@@ -1,0 +1,14 @@
+Calculate the percentage of orders delivered on-time for each customer
+
+Calculate the percentage of orders that were successfully delivered (i.e., delivered_qty = order_qty) for each customer
+
+For each product category, calculate the percentage of orders that were delivered on time.
+
+Show the customers who exceeded their "ontime_target %" based on their actual delivery performance
+
+Find customers who placed orders with total product quantity greater than the average order quantity
+
+Create a CTE to calculate delivery performance for each customer. Then, use the CTE to select customers whose performance is below the target for both on-time and in-full delivery
+
+Use a CTE to calculate the percentage of orders delivered on-time and in-full for each customer, then select the customers with performance below 80% for both metrics
+

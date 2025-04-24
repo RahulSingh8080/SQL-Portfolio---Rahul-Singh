@@ -1,0 +1,5 @@
+
+1. For each customer, calculate the monthly percentage of on-time and in-full deliveries. 
+Compare these results against the targets to identify any underperforming customers
+
+2. Identify the categories with the highest and lowest on-time delivery rates over the past year. Show the on-time percentage for each category and filter out categories with fewer than 200 total orders.

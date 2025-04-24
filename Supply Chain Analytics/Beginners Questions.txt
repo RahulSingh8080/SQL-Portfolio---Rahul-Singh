@@ -1,0 +1,14 @@
+1. How many orders were placed in each month?
+2. What is the weekly trend of late deliveries?
+3. Identify the month with the highest number of orders that were not delivered in full
+4. Find the difference between agreed delivery dates and actual delivery dates for all orders
+5. What is the OTIF performance for each city?
+6. What is the total number of orders delivered late?
+7. List the product categories along with the number of unique products in each category
+8. Identify the busiest week in terms of order placement
+9. Which product categories perform best in terms of meeting OTIF targets?
+10.Which product categories perform best in terms of meeting OTIF targets?
+11. What is the percentage of orders that met OTIF criteria?
+13. How many orders were placed on weekends versus weekdays?
+14. How many orders were delivered on time but not in full?
+15. Which product category has the highest order quantity?
